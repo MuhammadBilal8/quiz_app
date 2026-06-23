@@ -27,15 +27,13 @@ What you'll learn
 
 ## Screenshots
 
-App screenshots are stored in `assets/screenshots/`. Below are a few examples — they are included in the repository so GitHub will render them on the project page.
+App screenshots are stored in `assets/screenshots/`. Below are a few examples; they are included in the repository, so GitHub will render them on the project page.
 
 <p align="center">
   <img src="assets/screenshots/screen1.png" width="320" alt="Start screen" />
   <img src="assets/screenshots/screen2.png" width="320" alt="Question screen" />
-  <img src="assets/screenshots/screen3.png" width="320" alt="Answer selection" />
+  <img src="assets/screenshots/screen3.png" width="320" alt="Result screen" />
 </p>
-
-You can add or replace screenshots in `assets/screenshots/`. If you prefer shorter filenames (recommended), rename files using lowercase and hyphens, for example `01-start.png`, `02-quiz.png`.
 
 ## Quickstart
 
