@@ -29,11 +29,18 @@ What you'll learn
 
 App screenshots are stored in `assets/screenshots/`. Below are a few examples; they are included in the repository, so GitHub will render them on the project page.
 
-<p align="center">
-  <img src="assets/screenshots/screen1.png" width="320" alt="Start screen" />
-  <img src="assets/screenshots/screen2.png" width="320" alt="Question screen" />
-  <img src="assets/screenshots/screen3.png" width="320" alt="Result screen" />
-</p>
+<table>
+  <tr>
+    <th>Start</th>
+    <th>Question</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshots/screen1.png" width="260" alt="Start screen" /></td>
+    <td align="center"><img src="assets/screenshots/screen2.png" width="260" alt="Question screen" /></td>
+    <td align="center"><img src="assets/screenshots/screen3.png" width="260" alt="Result screen" /></td>
+  </tr>
+</table>
 
 ## Quickstart
 
